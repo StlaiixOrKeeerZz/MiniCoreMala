@@ -1,2 +1,2 @@
-# MiniCoreMala
-A mini core for Pocketmine MP!
+### MiniCoreMala
+**A mini core for your pocketmine server!**
